@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="sinarngo.multiviews"
+        interface="sinarngo.multiviews.interfaces.IProductSpecific" />
+</layers>
