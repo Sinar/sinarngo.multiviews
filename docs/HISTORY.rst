@@ -4,7 +4,7 @@ Changelog
 0.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Force update for broken package.
 
 
 0.1 (2013-08-29)

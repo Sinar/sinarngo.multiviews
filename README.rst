@@ -1,4 +1,4 @@
 README for sinarngo.multiviews
 ==========================================
 
-This product contains traces of nuts
+Custom listing templates for collection.portlet.collectionmultiview
