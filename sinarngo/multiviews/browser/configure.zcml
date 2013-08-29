@@ -1,0 +1,20 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    i18n_domain="sinarngo.multiviews">
+
+   <adapter name="featured"
+            factory=".base.FeaturedRenderer" />
+   <adapter name="image-listing"
+            factory=".base.ImageListingRenderer" />
+   <adapter name="lead-summary"
+            factory=".base.LeadSummaryRenderer" />
+   <adapter name="events-listing"
+            factory=".base.EventsRenderer" />
+
+   <adapter name="richtext"
+            factory=".base.RichTextRenderer" />
+
+   <adapter name="staticrichtext"
+            factory=".base.StaticRichTextRenderer" />
+
+</configure>
