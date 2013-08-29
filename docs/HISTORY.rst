@@ -4,7 +4,7 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add missing MANIFEST.in to fix broken package.
 
 
 0.2 (2013-08-29)
